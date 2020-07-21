@@ -14,8 +14,7 @@
 Meu nome é Thiago Marinho, apaixonado por Desenvolvimento e em constante busca de conhecimento.
 
 - :man_technologist: Graduando Ciência da Computação na UFC-Quixadá
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px">
-Em busca de novas experiências na área
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="18px"> Em busca de novas experiências na área
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="18px"> Principais Tecnologias: 
